@@ -1,11 +1,5 @@
-# Angular4 authentication   
-- this is the front-end layer of the app using anuglar 4 , 
-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
-
-## Idea of the app 
- - simple user registration /  authentication 
-
-## Development server
+# Angular app authentication using spring boot at backend   
+- Front end uses Angular 5.
 
 ### installing the node module :
 Use the following command in the project folder `npm install --build-from-source`  [NPM] https://www.npmjs.com/

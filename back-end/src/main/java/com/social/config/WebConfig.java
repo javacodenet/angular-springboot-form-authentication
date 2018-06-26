@@ -38,8 +38,8 @@ public class WebConfig extends WebSecurityConfigurerAdapter {
   @Override
   protected void configure(AuthenticationManagerBuilder auth) throws Exception {
     auth.inMemoryAuthentication()
-        .withUser("u")
-        .password("p")
+        .withUser("username")
+        .password("password")
         .roles("USER")
         .and()
         .withUser("manager")
